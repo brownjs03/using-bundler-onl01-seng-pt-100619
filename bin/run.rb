@@ -1,4 +1,3 @@
-bin/run.rb 
 
 Hashie
 Sinatra
